@@ -1,3 +1,5 @@
+![using a color picker](kafka-notification-example.gif)
+
 ## instalar as dependências
 ```js
 npm install
